@@ -5,4 +5,8 @@
 
 ### [Lecture one](https://cluster.hpcc.ucr.edu/~kkell060/lectures/lecture_1.html#1)
 
-![***Cryptococcus*** **(my favorite yeast)**](images/Cryptococcus.jpg){width="593"}
+![***Cryptococcus*** **(my favorite yeast)**](images/Cryptococcus.jpg){width="220"}
+
+### [Lecture two](https://cluster.hpcc.ucr.edu/~kkell060/lectures/lecture_1.html#1)
+
+![Some cultures from my research](images/7.jpg){width="250"}
