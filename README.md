@@ -10,3 +10,7 @@
 ### [Lecture two](https://cluster.hpcc.ucr.edu/~kkell060/lectures/lecture_2.html#1)
 
 ![Some cultures from my research](images/7.jpg){width="249" height="234"}
+
+### [Lecture three](https://cluster.hpcc.ucr.edu/~kkell060/lectures/lecture_3.html#1)
+
+![RNA polymerase](images/RNA_pol.png){width="249" height="234"}
