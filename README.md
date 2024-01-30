@@ -14,3 +14,7 @@
 ### [Lecture three](https://cluster.hpcc.ucr.edu/~kkell060/lectures/lecture_3.html#1)
 
 ![RNA polymerase](images/RNA_pol.png){width="249" height="234"}
+
+### [Lecture four](https://cluster.hpcc.ucr.edu/~kkell060/lectures/lecture_4.html#1)
+
+![Bactericidal titanium](images/Titanium.png){width="258"}
